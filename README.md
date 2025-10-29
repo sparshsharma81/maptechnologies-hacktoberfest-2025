@@ -45,7 +45,15 @@ Open your browser and go to:
 
 ✅ Now the project should be running successfully!
 
-    
+## 🧑‍💻 Contributor Instructions
+
+We welcome contributions! Follow these simple steps to contribute:
+
+- Fork this repository and clone it locally.  
+- Create a new branch for your changes (`git checkout -b your-branch-name`).  
+- Make your updates and commit them with clear messages.  
+- Push your branch and open a Pull Request. 🚀
+
 
 ## Learn More
 
