@@ -53,6 +53,7 @@ We welcome contributions! Follow these simple steps to contribute:
 - Create a new branch for your changes (`git checkout -b your-branch-name`).  
 - Make your updates and commit them with clear messages.  
 - Push your branch and open a Pull Request. 🚀
+git checkout -b fix/responsive-navbar
 
 
 ## Learn More
